@@ -20,3 +20,7 @@ This is a growth-share matrix tool that is used in deciding what a company shoul
 - SQL Server (For Querying and analysis)
 - Power BI (for creating Report)
 - MS Power point (For Presentation)
+
+```SQL
+select A,B,C
+where A> 15
