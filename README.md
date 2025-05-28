@@ -24,10 +24,4 @@ This is a growth-share matrix tool that is used in deciding what a company shoul
 ```SQL
 select A,B,C
 where A> 15
-https://github.com/Achondizzle07/DSA-Documentation/blob/main/Construction%20of%20100-bed%20capacity%20hospital.pod
 
-```analysis
-<img width="207" alt="adanna cert" src="https://github.com/user-attachments/assets/2846e323-6172-4cc9-9eb4-71eb5df3b553" />
-
-<img width="215" alt="adanna cert_2" src="https://github.com/user-attachments/assets/5a0293f0-a4d1-4f74-85ee-df64c32f5d53" />
-[graph.docx](https://github.com/user-attachments/files/20494747/graph.docx)
